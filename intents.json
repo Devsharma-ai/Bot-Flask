@@ -474,6 +474,254 @@
         "At TCP Digital, we're committed to delivering value-driven solutions that meet and exceed client expectations.",
         "TCP Digital's focus is on delivering customized solutions that address the specific challenges and objectives of each client."
       ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi!",
+        "Hello there.",
+        "Hey!"
+      ],
+      "responses": [
+        "Hi! What can I do for you?",
+        "Hey! How can I assist you today?",
+        "Hello! How may I help you?"
+      ]
+    },
+    {
+      "tag": "weather",
+      "patterns": [
+        "It's such a nice day.",
+        "The weather is lovely today.",
+        "It's a beautiful day outside."
+      ],
+      "responses": [
+        "Yes, it's a perfect day to go outside and enjoy the sunshine!",
+        "Absolutely! It's ideal weather for outdoor activities.",
+        "I agree! The weather couldn't be better."
+      ]
+    },
+    {
+      "tag": "school",
+      "patterns": [
+        "I'm attending classes right now.",
+        "I have school today.",
+        "I go to school in the mornings."
+      ],
+      "responses": [
+        "Education is important! Keep up the good work.",
+        "Learning is the key to success. Keep striving!",
+        "School is a great place to expand your knowledge."
+      ]
+    },
+    {
+      "tag": "plans",
+      "patterns": [
+        "I'm planning to go to the beach this weekend.",
+        "Do you have any plans for the weekend?",
+        "I'm thinking of going on a trip soon."
+      ],
+      "responses": [
+        "Sounds like a fantastic idea! The beach is always refreshing.",
+        "Weekend getaways are always rejuvenating. Enjoy your time!",
+        "Traveling is a wonderful way to explore new places and cultures."
+      ]
+    },
+    {
+      "tag": "health",
+      "patterns": [
+        "I've been feeling a bit under the weather lately.",
+        "I'm not feeling well today.",
+        "I've been experiencing some health issues."
+      ],
+      "responses": [
+        "Take care of yourself and get plenty of rest. Hope you feel better soon!",
+        "It's important to listen to your body and prioritize your health. Take it easy!",
+        "Don't hesitate to seek medical advice if needed. Your health comes first!"
+      ]
+    },
+    {
+      "tag": "conversations",
+      "patterns": [
+        "Have you met the new girl?",
+        "Why weren't you at school yesterday?",
+        "Did you hear the good news?"
+      ],
+      "responses": [
+        "No, I haven't.",
+        "I wasn't really feeling well.",
+        "I got a promotion at my job."
+      ]
+    },
+    {
+      "tag": "movies",
+      "patterns": [
+        "have you been to the movies lately?",
+        "why haven't you tried to come see me then?",
+        "why haven't you visited me?",
+        "lately, i've been quite busy.",
+        "what have you been up to?"
+      ],
+      "responses": [
+        "No, but that was a random change of subject.",
+        "It may have been random, but have you?",
+        "I haven't lately.",
+        "I would love to catch a movie this weekend.",
+        "So then, why don't you just go?"
+      ]
+    },
+    {
+      "tag": "school",
+      "patterns": [
+        "okay, so are you going to school tomorrow?",
+        "well regardless, i'm very happy that you came to see me.",
+        "so, why haven't you visited me?",
+        "why haven't you tried to come see me then?",
+        "what have you been doing?"
+      ],
+      "responses": [
+        "I don't want to see a movie by myself.",
+        "I've been really busy.",
+        "Working.",
+        "I would've come to see you sooner, but I've been busy too.",
+        "I've been working too."
+      ]
+    },
+    {
+      "tag": "party_invitation",
+      "patterns": [
+        "thanks for coming to see me today.",
+        "have you heard about jessica's party this weekend?",
+        "hey, did you hear about jessica's party this weekend?",
+        "thanks for coming to see me today.",
+        "have you heard about jessica's party on saturday?"
+      ],
+      "responses": [
+        "It's no problem. I was really missing you anyway.",
+        "I missed you too.",
+        "Why haven't you tried to come see me then?",
+        "I've been really busy.",
+        "Working."
+      ]
+    },
+    {
+      "tag": "general_chat",
+      "patterns": [
+        "what's going on with you?",
+        "what's up?",
+        "what's happening?",
+        "what's going on?",
+        "what's up?"
+      ],
+      "responses": [
+        "Nothing really.",
+        "I'm throwing a party on Friday.",
+        "I didn't realize that.",
+        "You didn't?",
+        "Nobody has told me anything about your party."
+      ]
+    },
+    {
+      "tag": "parting",
+      "patterns": [
+        "it was nice talking to you.",
+        "i've enjoyed conversing with you.",
+        "i'm really glad that you came to visit me.",
+        "i'm really happy that you came to visit me.",
+        "i'm really glad that you came to see me."
+      ],
+      "responses": [
+        "I missed you too.",
+        "So, why haven't you visited me?",
+        "I've actually been busy lately.",
+        "Working.",
+        "I've also been busy."
+      ]
+    },
+    {
+      "tag": "friendship",
+      "patterns": [
+        "i'm really glad that you came to visit me.",
+        "i'm really happy that you came to visit me.",
+        "i'm really glad that you came to see me.",
+        "i'm really happy that you came to see me.",
+        "i'm really glad that you came to visit me."
+      ],
+      "responses": [
+        "I missed you too.",
+        "So, why haven't you visited me?",
+        "I've actually been busy lately.",
+        "Working.",
+        "I've also been busy."
+      ]
+    },
+    {
+      "tag": "party_plans",
+      "patterns": [
+        "what time does the party start?",
+        "where's your money?",
+        "what do you have to do?",
+        "can you go?",
+        "what's going on?"
+      ],
+      "responses": [
+        "It starts at 8 o'clock.",
+        "It's not in my wallet.",
+        "I have to do some things, and besides, it's not polite to be nosy.",
+        "I'm busy this Friday. I'm sorry.",
+        "Nothing really."
+      ]
+    },
+    {
+      "tag": "beach",
+      "patterns": [
+        "let's go to the beach.",
+        "we haven't been in a while.",
+        "we haven't been in a month.",
+        "the last time we went, you almost drowned.",
+        "and then he turned right around."
+      ],
+      "responses": [
+        "That's a great idea.",
+        "We haven't been in a while.",
+        "The last time we went, you almost drowned.",
+        "Maybe you're right.",
+        "Maybe we should get going."
+      ]
+    },
+    {
+      "tag": "divorce",
+      "patterns": [
+        "are you married?",
+        "when did you get divorced?",
+        "why did you get divorced?",
+        "why did she leave you?",
+        "why did she leave you?"
+      ],
+      "responses": [
+        "No. I'm divorced.",
+        "I got divorced two years ago.",
+        "My wife left me.",
+        "I don't know. Maybe I'm not rich enough.",
+        "They sure do."
+      ]
+    },
+    {
+      "tag": "cars",
+      "patterns": [
+        "do you have a car?",
+        "what kind of car do you have?",
+        "is it new?",
+        "so, it's pretty old now.",
+        "do you take good care of it?"
+      ],
+      "responses": [
+        "Yes, I do.",
+        "I have a Honda.",
+        "It was new in 2003.",
+        "Yes, it is. But it still looks good.",
+        "Oh, yes. I wash it once a week."
+      ]
     }
   ]
 }
