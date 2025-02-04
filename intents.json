@@ -115,7 +115,305 @@
       ]
     },
     {
-      "tag": "about_us",
+      "tag": "Benefits & Compensation",
+      "patterns": [
+        "What are my health insurance options and costs?",
+        "Tell me about the health benefits.",
+        "Do you offer medical coverage?"
+      ],
+      "responses": [
+        "We offer several health insurance plans, including HMO, PPO, and HDHP, with varying premiums and coverage levels.",
+        "You can select from a range of plans, each with different levels of coverage, and the cost depends on the plan and your location.",
+        "The company provides a few different insurance plans, including dental, vision, and medical coverage, which are available at different costs depending on your selection.",
+        "Health insurance options include both individual and family plans. The monthly premiums range from $100 to $500 depending on the plan.",
+        "We offer employer-sponsored health insurance with premium costs shared between the employee and the company, which you can review in your benefits portal."
+      ]
+    },
+    {
+      "tag": "paid_time_off",
+      "patterns": [
+        "How much paid time off (PTO) do I accrue?",
+        "How many vacation days do I get?",
+        "Tell me about PTO benefits."
+      ],
+      "responses": [
+        "PTO accrual is based on your length of service, starting at 10 days per year and increasing over time.",
+        "You will accrue 1 day of PTO for every month worked, up to a maximum of 15 days per year.",
+        "Full-time employees accrue 2 weeks of PTO annually, with additional days available after reaching 3 years of employment.",
+        "PTO is accrued at a rate of 8 hours per month, amounting to 12 days per year.",
+        "Employees earn 1 day of PTO per month worked, for a total of 12 days annually, with additional leave for specific events like family emergencies."
+      ]
+    },
+    {
+      "tag": "raises and bonuses",
+      "patterns": [
+        "Am I eligible for a raise or a bonus, and how do I qualify?"
+      ],
+      "responses": [
+        "Eligibility for raises and bonuses is based on performance reviews and company performance metrics.",
+        "Raises are typically awarded annually, and bonuses are based on both individual performance and company profit.",
+        "You become eligible for a raise after your probationary period, and bonuses are awarded based on exceeding performance goals.",
+        "Raises are considered based on yearly performance evaluations, and bonuses are given to employees who meet or exceed set targets.",
+        "Performance-based raises occur after every annual review, and bonuses are granted to top performers at the end of the fiscal year."
+      ]
+    },
+    {
+      "tag": "retirement plan",
+      "patterns": [
+        "What is the company’s retirement plan and how do I contribute?",
+        "What benefits are provided by the company to its employees?",
+        "How can I enroll in the company health insurance plan?",
+        "What is the process for requesting paid time off?",
+        "How does the company handle employee performance reviews?",
+        "What is the company's policy on remote work or telecommuting?",
+        "How can I update my personal information in the company system?",
+        "What is the procedure for requesting a salary raise or promotion?",
+        "What are the company's policies regarding sick leave?",
+        "What training or development opportunities are available to employees?",
+        "How do I report workplace harassment or discrimination?",
+        "What are the company's guidelines for workplace safety?",
+        "How do I apply for a job within the company?",
+        "What are the options for retirement savings with the company?",
+        "How can I access my pay stubs and tax documents?"
+      ],
+      "responses": [
+        "We offer a 401(k) plan where you can contribute up to 15% of your salary. The company matches contributions up to 5%.",
+        "The company provides a 401(k) plan with both traditional and Roth options. Employees can contribute up to $19,500 per year.",
+        "Employees are eligible to participate in the company’s retirement savings plan, and contributions can be made pre-tax or after-tax depending on your preference.",
+        "We match up to 4% of your salary in a 401(k) plan, and you can contribute up to the annual IRS limit.",
+        "Our company offers a 403(b) plan with employer matching contributions for retirement, and you can begin contributing immediately."
+      ]
+    },
+    {
+      "tag": "401k match",
+      "patterns": [
+        "Does the company match 401(k) contributions and at what percent?",
+        "How much does the company match for 401(k) contributions?",
+        "What percentage of my 401(k) contributions does the company match?",
+        "Can you tell me about the 401(k) match offered by the company?",
+        "What is the company’s policy for matching 401(k) contributions?",
+        "Does the company provide a 401(k) match, and if so, what is the percentage?",
+        "What is the employer contribution to the 401(k) plan?"
+      ],
+      "responses": [
+        "Yes, the company matches 100% of the first 3% you contribute and 50% of the next 2%.",
+        "We match 100% of your 401(k) contributions up to 4% of your salary, helping you maximize your retirement savings.",
+        "The company will match your 401(k) contributions dollar for dollar up to 5% of your annual salary.",
+        "Our 401(k) match is 50% of the first 6% you contribute, which can significantly boost your retirement savings.",
+        "We offer a 3% match on 401(k) contributions, with an additional 2% based on company-wide performance.",
+        "The company provides a 401(k) match of 75% for contributions up to 4%, helping you reach your retirement goals faster.",
+        "We offer a 2:1 match on 401(k) contributions for the first 5%, making it easier for you to grow your savings."
+      ]
+    },
+    {
+      "tag": "maternity_paternity_leave",
+      "patterns": [
+        "How do I apply for maternity/paternity leave and what are the benefits?",
+        "What is the process for applying for maternity or paternity leave?",
+        "How much maternity or paternity leave does the company offer?",
+        "Can I take paternity or maternity leave, and how do I apply?",
+        "What are the company’s policies on maternity and paternity leave?",
+        "How can I apply for maternity leave and how long is it?",
+        "Is there paid leave for both maternity and paternity leave?",
+        "How do I request maternity or paternity leave, and what are the eligibility requirements?",
+        "How many weeks of paid maternity/paternity leave are provided by the company?"
+      ],
+      "responses": [
+        "To apply for maternity/paternity leave, submit a leave request form at least 30 days in advance, and the company provides up to 12 weeks of paid leave.",
+        "You can apply through the employee portal for maternity/paternity leave, and the company offers 6 weeks of paid leave for both parents.",
+        "Maternity/paternity leave applications can be made via HR, and eligible employees receive up to 8 weeks of paid time off.",
+        "Both maternity and paternity leave are available after 12 months of employment. We offer 12 weeks of paid leave, which is fully paid at 60% of your salary.",
+        "Employees are entitled to maternity/paternity leave with a minimum of 4 weeks notice. We provide up to 6 weeks of paid leave for parents.",
+        "We provide 12 weeks of maternity/paternity leave for both parents, and applications can be made via HR or through the employee portal.",
+        "For employees with at least 6 months of tenure, we offer 8 weeks of paid paternity/maternity leave, with a flexible application process.",
+        "The company provides 10 weeks of paid maternity leave and 4 weeks of paternity leave for eligible employees.",
+        "You can apply for maternity or paternity leave up to 6 months in advance, and the company offers 6 weeks of fully paid leave for both parents."
+      ]
+    },
+    {
+      "tag": "benefits_adjustment",
+      "patterns": [
+        "Can I adjust my benefits if my family situation changes (marriage, children, etc.)?",
+        "How do I adjust my benefits if there is a change in my family situation?",
+        "Can I modify my benefits after a significant life event like marriage or the birth of a child?",
+        "Is it possible to update my benefits if my family status changes?",
+        "What should I do if my family situation changes and I need to adjust my benefits?",
+        "How do I make changes to my benefits after a family-related life event?",
+        "Can I change my benefits due to marriage, childbirth, or other life events?",
+        "What is the process for adjusting my benefits after a major life event?"
+      ],
+      "responses": [
+        "Yes, you can adjust your benefits within 30 days of a qualifying life event like marriage or the birth of a child.",
+        "Any significant life event, such as marriage or the birth of a child, allows you to change your benefits by submitting a request to HR.",
+        "You can make adjustments to your benefits within 60 days of any family status change, including marriage or the birth of a child.",
+        "We offer a benefits adjustment period for employees after significant life changes like marriage or having children. Just notify HR within 30 days.",
+        "If your family situation changes, such as getting married or having a child, you can adjust your benefits by contacting HR within 45 days.",
+        "Employees can update their benefits within 30 days following life events like marriage, divorce, or the birth of a child. Please inform HR as soon as possible.",
+        "You’re allowed to modify your benefits if there’s a family situation change. This can be done within 30 days after the event by notifying HR.",
+        "After a qualifying life event such as a marriage or childbirth, you have 60 days to make changes to your benefits by submitting the necessary forms to HR."
+      ]
+    },
+    {
+      "tag": "health benefits package",
+      "patterns": [
+        "What’s included in the health benefits package?",
+        "Can you tell me what is covered in the health benefits package?",
+        "What types of coverage are included in the health benefits package?",
+        "What health benefits do employees receive?",
+        "What’s included in the company’s health insurance plan?",
+        "Does the health benefits package include dental and vision coverage?",
+        "Can you explain the health benefits package offered by the company?",
+        "What health services are covered under the company’s benefits package?",
+        "What does the health benefits package cover for employees?",
+        "Are mental health services included in the health benefits package?"
+      ],
+      "responses": [
+        "The health benefits package includes medical, dental, vision coverage, and mental health support.",
+        "Our health benefits package covers doctor visits, prescriptions, emergency care, dental, and vision services, plus telemedicine services.",
+        "We offer comprehensive health benefits that cover hospitalization, preventive care, mental health services, dental and vision coverage, and wellness programs.",
+        "The health package includes comprehensive medical, dental, and vision coverage, as well as mental health resources and 24/7 nurse support.",
+        "Employees have access to a full health benefits package, which includes family health coverage, dental, vision, mental health services, and access to wellness programs.",
+        "The health benefits package covers everything from doctor visits, prescriptions, emergency care, dental, vision, and mental health, to wellness and preventive care.",
+        "Our package includes a broad range of health services such as medical, dental, vision, and mental health care, along with access to 24/7 telehealth services.",
+        "You’ll have access to medical, dental, vision, and mental health benefits, as well as wellness programs like gym memberships and stress management workshops.",
+        "In addition to traditional health benefits, the package also provides coverage for mental health support, telemedicine, and preventive health services.",
+        "The health benefits package is designed to ensure full care, including hospital visits, prescriptions, emergency services, dental/vision, mental health support, and wellness services."
+      ]
+    },
+    {
+      "tag": "sick_leave",
+      "patterns": [
+        "What is the company policy on sick leave?",
+        "How much sick leave do employees get each year?",
+        "What’s the company policy regarding taking sick leave?",
+        "Can I take sick leave if I’m feeling ill?",
+        "How do I request sick leave, and how many days are allowed?",
+        "Does the company provide paid sick leave?",
+        "How many days of paid sick leave do I get?",
+        "Is there a limit to how many sick days I can take?",
+        "Do unused sick days carry over to the next year?",
+        "Are there any conditions for taking sick leave?"
+      ],
+      "responses": [
+        "Employees are eligible for 5 days of paid sick leave each year, and unused sick days can be carried over to the next year.",
+        "We offer 10 days of paid sick leave per year, and employees can take leave as needed without prior approval if they are ill.",
+        "Sick leave is available for up to 10 days per year, and we require a doctor’s note for absences longer than 3 days.",
+        "Our policy provides 15 days of paid sick leave annually, and additional leave is available under the Family and Medical Leave Act (FMLA).",
+        "Employees can take up to 7 days of paid sick leave each year. After that, additional leave may be granted on a case-by-case basis.",
+        "Our sick leave policy grants 12 paid days off per year, and unused sick days can roll over to the next year, up to a total of 30 days.",
+        "You are entitled to 5 paid sick days per year, with the option to take unpaid leave beyond that, if necessary.",
+        "Sick leave is granted for up to 7 days each year, and if additional leave is needed, it is handled on a case-by-case basis.",
+        "Employees receive up to 10 days of paid sick leave annually. If you need additional time off, please submit a request to HR.",
+        "Our sick leave policy includes 5 days of paid leave each year, and longer absences require documentation, such as a doctor's note."
+      ]
+    },
+    {
+      "tag": "medical expenses claim",
+      "patterns": [
+        "How do I claim for medical expenses under company benefits?",
+        "What is the process for submitting medical expense claims?",
+        "How can I file a claim for medical expenses with the company?",
+        "Where do I submit receipts for medical expenses?",
+        "How do I get reimbursed for medical expenses through the company benefits?",
+        "What steps do I need to take to claim medical expenses?",
+        "Can I submit medical claims for reimbursement through the employee portal?",
+        "What documents do I need to submit for a medical expense claim?",
+        "How do I submit a claim for out-of-pocket medical expenses?",
+        "What is the procedure for claiming medical expenses for reimbursement?"
+      ],
+      "responses": [
+        "You can submit medical claims through the benefits portal by uploading your receipts and invoices.",
+        "Claims for medical expenses can be submitted via the company's online system or by submitting the necessary documents to HR.",
+        "To claim medical expenses, complete the online claim form and attach relevant receipts. The HR team will assist you in processing your claim.",
+        "Medical expense claims can be made by sending your receipts to the Benefits Coordinator or by submitting them through our employee portal.",
+        "For reimbursement, you can submit medical expenses via our claim system or email the required documents to the HR department.",
+        "You can file a claim for medical expenses by filling out the online form and attaching all relevant documentation, including receipts and invoices.",
+        "Submit your medical expense claims through the company's benefits portal or by sending your receipts directly to the HR team for processing.",
+        "Claims for medical expenses can be submitted either online or by emailing the documents to the Benefits Coordinator for review.",
+        "Simply submit your receipts and any relevant medical documentation through our online claims system for reimbursement.",
+        "You can easily claim medical expenses by uploading the necessary receipts and forms to the online portal or sending them via email to HR."
+      ]
+    },
+    {
+      "tag": "pay stub",
+      "patterns": [
+        "How do I access my pay stub or salary slip?",
+        "Where can I find my pay stub?",
+        "How can I view my salary slip?",
+        "Where do I access my pay stub for the current month?",
+        "How do I download my pay stub from the company portal?",
+        "Can I view my pay stub online?",
+        "How can I get my pay stub or salary slip?",
+        "Where do I go to check my salary details?",
+        "Is there a way to access my pay stub online?",
+        "How do I retrieve my latest pay stub?"
+      ],
+      "responses": [
+        "You can access your pay stubs anytime by logging into the employee portal under the 'Payroll' section.",
+        "Pay stubs are available in your personal account on the company’s portal, and you can download them in PDF format.",
+        "You can view your pay stub by logging into the employee portal or by contacting the payroll department directly.",
+        "Your salary slip can be accessed via the company’s internal portal, under the ‘Pay & Benefits’ section.",
+        "Salary stubs are available online in the portal, and you will receive email notifications whenever a new pay stub is available for download.",
+        "You can access and download your pay stub from the company’s employee portal under the ‘Payroll’ section, where they are stored as PDFs.",
+        "Simply log into the employee portal and go to the ‘Payroll’ tab to view or download your pay stub for any given period.",
+        "To retrieve your pay stub, just visit the company’s employee portal and navigate to the ‘Pay Stub’ section under your profile.",
+        "All pay stubs are stored online in the employee portal, and you can easily download them whenever needed.",
+        "Your pay stubs can be viewed and downloaded in the ‘My Pay’ section of the portal. You will also be notified by email when a new pay stub is ready."
+      ]
+    },
+    {
+    "tag": "Job Related",
+    "patterns": [
+      "What is the company policy on remote work?",
+      "What is the procedure for requesting time off?",
+      "How do I apply for parental leave?",
+      "What is the company's policy on sick leave?",
+      "How do I request a flexible working schedule?",
+      "What is the policy on vacation days?",
+      "How do I report an issue with a colleague?",
+      "What are the guidelines for using company equipment?",
+      "What is the dress code at the office?",
+      "How do I access my benefits information?",
+      "What is the company policy on working from home?",
+      "What are the company’s holiday schedules?",
+      "How do I get reimbursed for business expenses?",
+      "What is the company’s policy on overtime?",
+      "How do I request a performance review?",
+      "What is the procedure for submitting a complaint?",
+      "How do I apply for a promotion?",
+      "What are the requirements for internal job transfers?",
+      "What is the company's policy on confidentiality?",
+      "How do I report a safety hazard at work?",
+      "What is the policy on employee training and development?",
+      "How do I request a leave of absence for personal reasons?",
+      "What is the procedure for resigning from the company?",
+      "How do I update my personal contact information with HR?",
+      "What is the policy on using personal devices at work?",
+      "How do I participate in the company's wellness program?",
+      "What is the process for accessing my payroll information?",
+      "How do I make changes to my emergency contact details?",
+      "What is the company’s policy on performance evaluations?",
+      "How do I request time off for a medical emergency?",
+      "What are the guidelines for taking unpaid leave?",
+      "How can I access the company’s employee portal?",
+      "What is the process for requesting a transfer to another department?",
+      "What is the company’s policy on workplace harassment?",
+      "How do I apply for a job promotion within the company?",
+      "What is the company’s stance on diversity and inclusion?",
+      "How do I submit a request for a salary review?",
+      "What is the company's policy on employee conduct?",
+      "How do I report a technical issue with the company's software?"
+   ],
+   "responses": [
+      "The company allows flexible remote work based on your role and team. Speak with your manager for specific arrangements.",
+      "Remote work is permitted 3 days a week, with the option to work from the office for the remaining days, based on department needs.",
+      "Employees have the option to work remotely up to two days a week, depending on their department's flexibility and job responsibilities.",
+      "Our remote work policy allows employees to work from home on Fridays, but some teams may offer more flexibility.",
+      "Remote work is generally allowed, and arrangements can be made on a case-by-case basis, depending on your team and responsibilities."
+      ]
+    },
+    {
+      "tag": "about us",
       "patterns": [
         "Tell me about 2i Services PVT. ltd.",
         "What does 2i Services PVT. ltd. do?",
@@ -722,6 +1020,1141 @@
         "Yes, it is. But it still looks good.",
         "Oh, yes. I wash it once a week."
       ]
+    },
+    {
+      "tag": "remote_work_policy",
+      "patterns": [
+        "What is the company policy on remote work?",
+        "How does the company handle remote working?",
+        "Can I work remotely?",
+        "Is remote work allowed in the company?",
+        "What are the rules for working from home?"
+      ],
+      "responses": [
+        "The company allows flexible remote work based on your role and team. Speak with your manager for specific arrangements.",
+        "Remote work is permitted 3 days a week, with the option to work from the office for the remaining days, based on department needs.",
+        "Employees have the option to work remotely up to two days a week, depending on their department's flexibility and job responsibilities.",
+        "Our remote work policy allows employees to work from home on Fridays, but some teams may offer more flexibility.",
+        "Remote work is generally allowed, and arrangements can be made on a case-by-case basis, depending on your team and responsibilities."
+      ]
+    },
+    {
+      "tag": "career_advancement",
+      "patterns": [
+        "How can I advance in my career or how can I get promoted in my current role?",
+        "What does it take to get promoted?",
+        "How do I move up in the company?",
+        "How can I progress in my role?",
+        "What are the requirements for a promotion?"
+      ],
+      "responses": [
+        "Promotion opportunities are based on performance evaluations, skill development, and readiness for additional responsibilities.",
+        "You can advance in your career by consistently meeting performance goals, developing your skills, and actively seeking out new challenges.",
+        "Career advancement is available through internal promotions after demonstrating success in your role and alignment with company objectives.",
+        "You will be considered for a promotion if you show leadership potential, exceed performance expectations, and contribute to team success.",
+        "Speak with your manager to discuss specific career goals and development opportunities that can help you progress in your current role."
+      ]
+    },
+    {
+      "tag": "performance_review",
+      "patterns": [
+        "How does the performance review process work?",
+        "When will my performance be reviewed?",
+        "What is the process for performance evaluations?",
+        "How often do performance reviews happen?",
+        "How is my performance evaluated?"
+      ],
+      "responses": [
+        "The performance review process includes a self-assessment, manager review, and goal setting for the upcoming year.",
+        "Reviews are conducted annually, with a combination of manager feedback, peer reviews, and self-reflection.",
+        "Performance reviews take place every 6 months, where feedback is provided based on key performance metrics and personal achievements.",
+        "Your performance will be reviewed during annual one-on-one meetings with your manager, where you’ll discuss progress, challenges, and growth opportunities.",
+        "You’ll have a formal review every 12 months, and regular feedback is provided through quarterly check-ins with your manager."
+      ]
+    },
+    {
+      "tag": "professional_development",
+      "patterns": [
+        "What professional development opportunities does the company offer?",
+        "Are there any professional growth programs?",
+        "What are the learning and development options?",
+        "Does the company support career development?",
+        "Can I get help with professional certifications?"
+      ],
+      "responses": [
+        "We offer access to various online courses, certifications, and industry conferences to help employees develop professionally.",
+        "The company supports professional development through mentorship programs, leadership training, and external workshops.",
+        "We encourage employees to take part in industry seminars, webinars, and certifications, with financial support for relevant courses.",
+        "Employees have access to resources like professional coaching, training programs, and opportunities for cross-departmental projects.",
+        "We provide professional development stipends, funding for relevant courses, and support for certifications and conferences related to your role."
+      ]
+    },
+    {
+      "tag": "training_and_development",
+      "patterns": [
+        "What training and development opportunities are available?",
+        "Are there any training programs for employees?",
+        "Can I access company-sponsored training?",
+        "What types of training are provided?",
+        "How can I improve my skills through the company?"
+      ],
+      "responses": [
+        "Training opportunities include in-house workshops, online courses, and leadership development programs tailored to different roles.",
+        "We offer technical training, soft skills development, and leadership development programs to help employees grow in their careers.",
+        "Employees can access a range of training resources, from e-learning platforms to in-person workshops conducted by experts in the field.",
+        "We regularly host workshops on leadership, project management, and technical skills, along with a budget for external training courses.",
+        "There are various training programs available, including in-house seminars, online learning modules, and development programs for advanced certifications."
+      ]
+    },
+    {
+      "tag": "attendance_policy",
+      "patterns": [
+        "What does the company expect from employees in terms of attendance?",
+        "What are the attendance rules?",
+        "How does the company handle attendance?",
+        "What are the attendance expectations?",
+        "Do I need to follow strict attendance policies?"
+      ],
+      "responses": [
+        "We expect employees to maintain a consistent attendance record, with flexibility for occasional remote work or time off.",
+        "Attendance expectations include being on time and present for scheduled shifts, with the ability to request time off as needed with prior approval.",
+        "Employees are expected to attend work during their regular hours, and any time off should be requested in advance and based on the company’s time-off policies.",
+        "We expect employees to communicate any absences ahead of time and to follow the company’s attendance and absence reporting procedures.",
+        "Employees should ensure they are present for scheduled work hours, with personal time off arranged in advance unless it's an emergency."
+      ]
+    },
+    {
+      "tag": "department_transfer",
+      "patterns": [
+        "How do I apply for a transfer to another department?",
+        "Can I transfer to another team?",
+        "How do I switch departments?",
+        "Is it possible to change departments within the company?",
+        "How do I request a transfer?"
+      ],
+      "responses": [
+        "To apply for a transfer, submit a request through HR, and ensure you meet the qualifications for the role you’re applying for.",
+        "You can apply for a departmental transfer by discussing the opportunity with your manager, who will help guide you through the process.",
+        "Speak with your current supervisor about your desire for a transfer, and you can also reach out to HR to explore available opportunities.",
+        "If you're interested in transferring, apply directly through the internal job posting system and work with HR for the next steps.",
+        "Transfers are possible after six months in your current role. You can express interest through HR or by directly contacting the hiring manager."
+      ]
+    },
+    {
+      "tag": "recommendation_letter",
+      "patterns": [
+        "How do I get a recommendation letter from the company?",
+        "Can the company provide me a reference letter?",
+        "How do I request a letter of recommendation?",
+        "Can I ask for a recommendation letter?",
+        "Who do I contact for a reference letter?"
+      ],
+      "responses": [
+        "You can request a recommendation letter from your manager or HR. Provide them with details about the role or opportunity you are applying for.",
+        "Reach out to your manager or team lead with enough notice, and they will provide a personalized recommendation letter based on your performance.",
+        "To receive a recommendation letter, simply contact HR or your direct supervisor, and share the details of the opportunity you're pursuing.",
+        "You can request a letter of recommendation by speaking directly with your manager, who will assess your contributions and provide a letter accordingly.",
+        "For a recommendation letter, you’ll need to submit a formal request to your supervisor, who will evaluate your performance and provide one."
+      ]
+    },
+    {
+      "tag": "work_from_home_policy",
+      "patterns": [
+        "Can I work from home occasionally, or is it full-time in the office?",
+        "How often can I work from home?",
+        "Do I have the option to work remotely?",
+        "Is there a possibility to work from home some days?",
+        "Can I telecommute?"
+      ],
+      "responses": [
+        "Yes, employees have the flexibility to work from home occasionally, depending on the department and your role's requirements.",
+        "Our policy allows occasional work from home for team members, but full-time in-office presence is required for certain positions.",
+        "You can work from home a few days a week, with the understanding that you are expected to be in the office for collaborative meetings.",
+        "Work-from-home options are available based on role and department. Generally, 2-3 days per week is acceptable for most positions.",
+        "Some positions allow full-time remote work, while others require regular office attendance, but exceptions can be discussed with your manager."
+      ]
+    },
+    {
+      "tag": "personal_leave_policy",
+      "patterns": [
+        "What are the guidelines for taking time off for personal reasons?",
+        "How do I request personal leave?",
+        "What is the company’s policy on personal time off?",
+        "How much personal leave do I get?",
+        "Can I take personal leave for urgent matters?"
+      ],
+      "responses": [
+        "Personal leave must be requested through HR, with approval required for leaves longer than 3 days. The company provides up to 5 days of paid personal leave per year.",
+        "Time off for personal reasons is granted based on the nature of the request, and employees are asked to submit their requests with at least 2 weeks’ notice when possible.",
+        "You can take personal leave as long as it’s within your leave entitlement. A formal request should be submitted in advance for approval.",
+        "Personal leave must be approved by your manager, and we recommend giving at least one week’s notice when requesting time off for personal reasons.",
+        "For personal leave, employees are asked to submit a request at least 3 days before the leave date, and approval will depend on workload and availability."
+      ]
+    },
+    {
+      "tag": "salary_increase_request",
+      "patterns": [
+        "How do I request a salary increase?",
+        "What is the process to ask for a raise?",
+        "Can I ask for a salary increase?",
+        "How can I get a salary raise?",
+        "What do I need to do to get a raise?"
+      ],
+      "responses": [
+        "To request a salary increase, schedule a performance review with your manager, where you can discuss your achievements and future goals.",
+        "Salary increases are typically discussed during performance reviews or when you have achieved specific milestones or goals.",
+        "To request a raise, we recommend preparing a list of your accomplishments and contributions, and then discussing it with your manager during a review.",
+        "When seeking a salary increase, make sure to have clear evidence of your value and contributions, and set a meeting with your supervisor.",
+        "You may request a salary increase after a successful performance review or significant contribution to your role. Prepare documentation to support your case."
+      ]
+    },
+    {
+      "patterns": [
+        "What is the procedure for requesting time off?",
+        "How do I request time off?",
+        "Can I take a day off?",
+        "What steps do I follow to request leave?"
+      ],
+      "tag": "time-off",
+      "response": [
+        "To request time off, submit your request through the employee portal or directly inform your manager with sufficient notice.",
+        "Time off requests can be made through our online system, or you can directly email your supervisor for approval.",
+        "To request leave, log into the HR portal, select the dates, and submit your request. It will be reviewed and approved by your manager.",
+        "Submit your time-off request at least two weeks in advance through the employee portal or notify your supervisor directly.",
+        "The procedure involves submitting a request via the employee portal or filling out the time-off request form, with approval from your direct supervisor."
+      ]
+    },
+    {
+      "patterns": [
+        "How do I resolve a conflict with a colleague or manager?",
+        "What steps should I take to resolve a conflict at work?",
+        "How can I address a disagreement with a coworker or my supervisor?",
+        "What should I do if I have a conflict at work?"
+      ],
+      "tag": "conflict resolution",
+      "response": [
+        "You can resolve conflicts by discussing the issue directly with the person involved, or seek guidance from HR if necessary.",
+        "Approach the individual calmly to discuss the conflict, and if necessary, involve HR or your manager for mediation.",
+        "To resolve a conflict, we recommend speaking privately with the person you’re in conflict with, or you can reach out to HR for assistance.",
+        "Start by addressing the issue with the individual involved. If it persists, HR is available to facilitate mediation and offer solutions.",
+        "It’s best to resolve conflicts through open and respectful communication. If needed, HR can assist in finding a resolution."
+      ]
+    },
+    {
+      "patterns": [
+        "What is the process for handling payroll and salary inquiries?",
+        "How do I inquire about my salary or payroll issues?",
+        "Where can I ask about salary deductions or adjustments?",
+        "What should I do if I have a payroll-related question?"
+      ],
+      "tag": "payroll",
+      "response": [
+        "For payroll inquiries, contact the HR department directly or use the payroll support system to submit a ticket.",
+        "If you have salary-related questions, email HR or check your payroll details through the employee portal for clarification.",
+        "Payroll and salary inquiries can be submitted to HR, and you can also check your pay history in the employee portal for details.",
+        "Contact HR for any questions about payroll. They’ll help with payment discrepancies, missing deductions, or any other concerns.",
+        "Salary inquiries should be directed to the payroll team via the employee portal or email. They will assist with any payroll-related issues."
+      ]
+    },
+    {
+      "patterns": [
+        "How do I submit a disability/other claim?",
+        "What is the process for submitting a disability claim?",
+        "How can I file a claim for disability or other medical reasons?",
+        "Where do I submit claims for disabilities or other personal issues?"
+      ],
+      "tag": "disability",
+      "response": [
+        "To submit a claim, contact HR and complete the necessary paperwork. HR will guide you through the process and required documentation.",
+        "Claims can be submitted through the employee portal or by contacting HR to get the appropriate forms for your disability or other claim.",
+        "Disability claims must be submitted to HR with medical documentation. HR will provide the necessary forms and instructions.",
+        "Submit your disability or other claim directly to HR, along with any required medical documentation. HR will then process your request.",
+        "For claims, reach out to HR, and they will guide you through the claim submission process, including necessary forms and timelines."
+      ]
+    },
+    {
+      "patterns": [
+        "What’s the process for requesting an extended leave of absence?",
+        "How do I request a long-term leave from work?",
+        "Can I apply for an extended leave?",
+        "What is the procedure for requesting extended time off?"
+      ],
+      "tag":"extended leave",
+      "response": [
+        "To request an extended leave, submit your request via the employee portal and provide the necessary documentation for review.",
+        "Extended leave requests must be made through HR with proper documentation, and approval will depend on the reason for the leave.",
+        "Request an extended leave by submitting a formal application through HR with supporting documentation such as a doctor’s note or personal reasons.",
+        "Submit your extended leave request at least 30 days in advance, along with any required documents, through HR for approval.",
+        "For extended leave, provide HR with your request in writing, including your reason and any documentation required for review and approval."
+      ]
+    },
+    {
+      "patterns": [
+        "How do I make changes to my personal information (address, phone number)?",
+        "How can I update my contact details at work?",
+        "What is the procedure to change my personal info in the company system?",
+        "How do I update my address or phone number with HR?"
+      ],
+      "tag": "personal information",
+      "response": [
+        "You can update your personal information by logging into the employee portal and editing your profile details.",
+        "Changes to your personal information should be made through the employee portal, or you can notify HR directly to update your details.",
+        "To update your personal details, go to the employee portal, access your profile, and make the necessary changes, or contact HR for assistance.",
+        "Log into the HR portal to update your personal information. If you’re unable to do so, reach out to HR for help in making the changes.",
+        "For personal information updates, go to your profile in the employee portal or inform HR for manual changes to your records."
+      ]
+    },
+    {
+      "patterns": [
+        "How do I access the company’s employee portal?",
+        "What are the steps to login to the employee portal?",
+        "Where can I find the company’s employee portal?",
+        "How can I get access to the employee portal?"
+      ],
+      "tag": "employee portal",
+      "response": [
+        "You can access the employee portal by logging in with your company credentials at [portal link]. If you need help, contact HR.",
+        "The employee portal can be accessed using your company-issued login credentials. Visit the link provided to access it.",
+        "To access the employee portal, use your company credentials to log in. If you encounter any issues, HR can assist you.",
+        "The portal is accessible via the company website. Use your employee login credentials to gain access to all relevant information.",
+        "Visit the employee portal URL and log in using your work credentials. HR support is available if you experience any access issues."
+      ]
+    },
+    {
+      "patterns": [
+        "How do I check the status of my promotion application?",
+        "How can I know if my promotion application has been reviewed?",
+        "What is the process for checking my promotion status?",
+        "How do I follow up on my promotion request?"
+      ],
+      "tag": "promotion",
+      "response": [
+        "To check the status of your promotion, reach out to your manager or HR for an update on your application.",
+        "You can inquire about the status of your promotion application directly with HR or during your next performance review meeting.",
+        "Check the status of your promotion by contacting HR or your direct supervisor. They will provide feedback on your application.",
+        "To check the status of your promotion, ask your manager or HR for updates regarding the progress and timelines for decision-making.",
+        "HR or your manager will be able to provide you with details regarding the status of your promotion application and any next steps."
+      ]
+    },
+    {
+      "patterns": [
+        "How do I apply for a job opening within the company?",
+        "What is the procedure for applying to internal job openings?",
+        "How can I apply for a job posting internally?",
+        "Where can I submit my application for an internal position?"
+      ],
+      "tag": "internal job",
+      "response": [
+        "To apply for internal job openings, visit the company’s internal job board and submit your application through the portal.",
+        "Internal job openings can be found on the company’s job portal. Apply through the system and follow the instructions for internal candidates.",
+        "You can apply for a job opening within the company by submitting your resume and cover letter through the internal job portal.",
+        "Search for open positions within the company on the internal job board and follow the steps outlined for submitting your application.",
+        "Internal applications can be made by visiting the company’s job portal and applying directly to the positions available."
+      ]
+    },
+    {
+      "patterns": [
+        "How do I update my emergency contact details?",
+        "How can I change my emergency contact information?",
+        "Where do I update my emergency contacts?",
+        "How do I add or update my emergency contact?"
+      ],
+      "tag": "emergency contact",
+      "response": [
+        "Emergency contact details can be updated through the employee portal under your personal information section.",
+        "To update emergency contacts, log into the employee portal and edit your emergency contact information under the personal details section.",
+        "You can update your emergency contact by accessing your profile in the employee portal and making changes under the 'Emergency Contacts' tab.",
+        "Log into the employee portal, go to your profile, and update your emergency contact information. Alternatively, contact HR for assistance.",
+        "For emergency contact updates, log in to the HR portal and modify your contact details under the emergency contact section."
+      ]
+    },
+    {
+      "patterns": [
+        "Why was there a deduction in my salary this month?",
+        "What caused the salary deduction in my recent pay?",
+        "Why is there a salary adjustment or deduction?",
+        "Can I get an explanation for the salary deduction?"
+      ],
+      "tag": "salary",
+      "response": [
+        "To inquire about salary deductions, contact HR or payroll. They can provide you with details regarding any adjustments or deductions made.",
+        "For salary deductions, you can refer to your pay stub or reach out to the payroll department for clarification on the deductions.",
+        "Salary deductions may occur for tax adjustments, benefits premiums, or other reasons. Contact HR or payroll for more detailed information.",
+        "Deductions from your salary may be related to taxes, benefits, or other company policies. Please consult the payroll team for clarification.",
+        "Any deduction in your salary should be explained in your pay slip. For further clarification, contact HR or payroll directly."
+      ]
+    },
+    { 
+      "tag": "company culture",
+      "patterns": [
+        "What is the dress code at the company?",
+        "Can you tell me about the dress code?",
+        "How should employees dress at work?",
+        "What is the general dress code policy?",
+        "Are there specific guidelines for workplace attire?"
+      ],
+      "response": [
+        "The company dress code is business casual. However, on certain occasions, we may have casual dress days or events with specific dress guidelines.",
+        "Our company follows a business casual dress code, but we encourage employees to dress comfortably while maintaining professionalism.",
+        "The dress code is generally business casual, but we allow flexibility depending on the role and work environment.",
+        "We maintain a business casual dress policy, but during certain events or meetings, you may be asked to wear more formal attire.",
+        "The company supports a business casual dress code, though there may be exceptions based on your department or work activities."
+      ]
+    },
+    {
+      "patterns": [
+        "What is the company's stance on harassment and discrimination?",
+        "How does the company handle issues of harassment and discrimination?",
+        "What measures are in place to ensure workplace safety?",
+        "What policies are in place to address harassment and workplace safety concerns?",
+        "Can you explain the company's approach to harassment and workplace safety?"
+      ],
+      "tag": "company policies",
+      "response": [
+        "We have a strict zero-tolerance policy for harassment and discrimination in the workplace. Safety is a top priority, and we encourage employees to report any concerns to HR immediately.",
+        "Our company policies emphasize respect, inclusivity, and safety. Any form of harassment or discrimination is not tolerated, and we ensure a safe working environment for everyone.",
+        "We are committed to maintaining a respectful and safe workplace. Harassment, discrimination, and safety violations are treated seriously and promptly addressed.",
+        "Our policies prohibit harassment and discrimination of any kind. Workplace safety is paramount, and employees are encouraged to report any safety issues or concerns.",
+        "The company has strict policies against harassment and discrimination, and we promote a safe and inclusive workplace. Safety concerns should be reported immediately to the relevant department."
+      ]
+    },
+    {
+      "patterns": [
+        "What should I do if I have concerns about a coworker or manager?",
+        "Who can I talk to if I'm having issues with a coworker or manager?",
+        "How do I report concerns related to coworkers or managers?",
+        "Where can I go if I need to address concerns with a manager or coworker?",
+        "What steps should I take if I have a problem with a coworker or manager?"
+      ],
+      "tag": "employee relations",
+      "response": [
+        "If you have concerns about a coworker or manager, you should contact HR for guidance and assistance in resolving the issue.",
+        "You can reach out to HR directly if you have concerns regarding a coworker or manager. They will handle the situation confidentially and professionally.",
+        "For any concerns related to coworkers or managers, contact HR. They provide support in resolving issues and ensuring a positive work environment.",
+        "If you're experiencing issues with a coworker or manager, HR is the best point of contact. They can assist in addressing your concerns confidentially.",
+        "If you have concerns about a coworker or manager, HR is available to discuss the matter and help find a resolution in a fair and confidential manner."
+      ]
+    },
+    {
+      "patterns": [
+        "How does the company ensure employee health and safety?",
+        "Can you tell me about the company's health and safety policies?",
+        "What is the company’s approach to health and safety at the workplace?",
+        "Are there any specific policies for ensuring health and safety at work?",
+        "How does the company maintain a safe and healthy work environment?"
+      ],
+      "tag": "health and safety",
+      "response": [
+        "Our company places a high priority on health and safety. We follow all legal requirements and encourage employees to report any hazards or unsafe conditions immediately.",
+        "We have comprehensive health and safety policies in place to ensure that all employees are working in a safe and healthy environment. Employees are encouraged to report any concerns.",
+        "The company maintains strict health and safety protocols, and we expect all employees to follow safety guidelines to protect themselves and their colleagues.",
+        "Health and safety are fundamental to our workplace policies. We regularly update safety procedures and expect all employees to follow them diligently.",
+        "Our company is committed to maintaining a safe and healthy workplace. Regular training and safety checks are conducted to ensure the well-being of all employees."
+      ]
+    },
+    {
+      "patterns": [
+        "How can I provide feedback or suggestions to the company?",
+        "What is the process for submitting suggestions at work?",
+        "How does the company incorporate employee feedback?",
+        "Can employees share their suggestions for improvements?",
+        "What happens to employee feedback within the company?",
+        "How does the company gather feedback from employees?",
+        "Are there any regular surveys to collect employee feedback?",
+        "What channels are available for employees to offer suggestions?"
+      ],
+      "tag": "employee feedback",
+      "response": [
+        "Employee feedback is valued and can be submitted through regular surveys, suggestion boxes, or directly to HR. We review all feedback to continuously improve our workplace.",
+        "Feedback is actively encouraged through surveys and one-on-one meetings. We take employee suggestions seriously and consider them in decision-making processes.",
+        "Employees can provide feedback through surveys, team meetings, or directly to HR. All suggestions are reviewed, and actionable ideas are incorporated into our workplace policies.",
+        "The company welcomes employee feedback through structured surveys and informal channels. We review all suggestions carefully and implement those that align with our goals.",
+        "We regularly solicit feedback from employees through surveys and informal conversations. Your suggestions help shape the direction of our workplace environment."
+      ]
+    },
+    {
+      "tag": "Paid Time Off",
+      "patterns": [
+        "How can I request paid time off?",
+        "What’s the process for requesting paid leave?",
+        "How do I apply for paid time off?",
+        "Can you tell me how to request paid leave?"
+      ],
+      "response": [
+        "To request paid time off, submit a request through the company's leave management system or inform your manager for approval.",
+        "You can request paid time off by filling out the leave request form and submitting it through our HR portal for manager approval.",
+        "Submit your leave request via our internal system and get your time off approved by your supervisor in advance.",
+        "Requests for paid time off can be made through our online platform or by notifying your team leader in advance."
+      ]
+    },
+    {
+      "tag": "Sick Leave",
+      "patterns": [
+        "How can I request sick leave?",
+        "What is the procedure for applying for sick leave?",
+        "Can you explain how to apply for sick leave?",
+        "How do I take sick leave?"
+      ],
+      "response": [
+        "To apply for sick leave, please notify your manager and submit a medical certificate if required. Then, enter your leave request in the HR system.",
+        "Sick leave requests should be submitted through the company portal, and a doctor's note may be needed for extended leave.",
+        "You can apply for sick leave by notifying your direct supervisor and submitting a request in the leave system, attaching any necessary medical documents.",
+        "Sick leave is to be requested via our HR software, and a doctor’s note is required for absences longer than 3 days."
+      ]
+    },
+    {
+      "tag": "Sick Leave Entitlement",
+      "patterns": [
+        "What is the annual sick leave entitlement?",
+        "How many sick leave days do I have per year?",
+        "What is the maximum number of sick leave days allowed annually?",
+        "How many days of sick leave are allotted every year?"
+      ],
+      "response": [
+        "Employees are entitled to 10 days of sick leave per year. Additional days may be granted based on individual circumstances.",
+        "The standard sick leave allowance is 12 days per year, with any unused days carrying over to the next year.",
+        "You are given 15 days of sick leave annually. Unused days will be carried over into the following year.",
+        "Each employee receives 10 days of sick leave annually, which can be extended with manager approval in case of longer illnesses."
+      ]
+    },
+    {
+      "tag": "Unapproved Leave Penalty",
+      "patterns": [
+        "Why was I penalized for unapproved leave?",
+        "What happened because I took unapproved leave?",
+        "Why did my unapproved leave lead to a penalty?",
+        "What is the penalty for unapproved leave?"
+      ],
+      "response": [
+        "Unapproved leave can lead to penalties as it impacts team productivity. Ensure that your leave is approved in advance.",
+        "If leave was taken without prior approval, it can affect the workflow and lead to penalties as per company policy.",
+        "Penalties for unapproved leave arise from the absence causing disruptions. Always request leave through the proper channels for approval.",
+        "Taking leave without prior approval can result in disciplinary action as it disrupts team schedules and project timelines."
+      ]
+    },
+    {
+      "tag": "Carry Over Unused Leave",
+      "patterns": [
+        "How can I carry over my unused leave days?",
+        "What’s the process for carrying over unused leave days?",
+        "Can unused leave days be carried over to next year?",
+        "How do I transfer unused leave days to the next year?"
+      ],
+      "response": [
+        "Unused leave days can be carried over to the following year, subject to approval. You can check with HR for specific carryover rules.",
+        "Depending on your role and department, unused leave days may carry over with a maximum cap. Speak with HR for details.",
+        "Your unused leave days are carried over automatically to the next year, unless otherwise specified by your department's leave policy.",
+        "If you have unused leave days, they can be transferred to the next year, but please check with HR for any applicable limits."
+      ]
+    },
+    {
+      "tag": "Leave During Peak Periods",
+      "patterns": [
+        "Is leave allowed during peak periods?",
+        "Can I request time off during peak seasons?",
+        "Are there restrictions on taking leave during busy periods?",
+        "Can I take leave during peak times of the year?"
+      ],
+      "response": [
+        "Leave during peak periods may be restricted due to business needs. However, you can request time off in advance and coordinate with your manager.",
+        "Leave requests during peak periods are subject to approval based on workload and team requirements. Speak with your supervisor for approval.",
+        "While peak periods can affect leave approvals, we encourage advance planning. Please submit leave requests early to ensure availability.",
+        "Taking leave during busy periods may require special approval depending on the department’s operational needs. Plan accordingly."
+      ]
+    },
+    {
+      "tag": "Check Leave Balance",
+      "patterns": [
+        "How can I view my remaining leave balance?",
+        "Where can I find my current leave balance?",
+        "How do I check how much leave I have left?",
+        "Where do I check my leave balance?"
+      ],
+      "response": [
+        "You can view your remaining leave balance by logging into the company HR portal or asking HR directly for an update.",
+        "Check your remaining leave balance by accessing your profile in the employee portal or by contacting the HR department.",
+        "Your leave balance is available in the HR system. You can also inquire with HR for an updated balance if needed.",
+        "To view your current leave balance, log in to the HR portal or reach out to the HR team for confirmation."
+      ]
+    },
+    {
+      "tag": "Unpaid Leave",
+      "patterns": [
+        "What happens if I run out of paid leave? Can I take unpaid leave?",
+        "Is unpaid leave allowed once paid leave is exhausted?",
+        "How do I request unpaid leave after using up paid leave?",
+        "Can I apply for unpaid leave after my paid leave is finished?"
+      ],
+      "response": [
+        "Yes, you can take unpaid leave once your paid leave days have been exhausted. Please notify your manager and HR for approval.",
+        "If you've used up your paid leave days, you can request unpaid leave. Ensure that you follow the proper process for approval.",
+        "Unpaid leave can be taken if all paid leave days have been used up. Submit a formal request for approval from HR and your manager.",
+        "You are allowed to take unpaid leave once your paid leave days are gone. Please consult with HR for the approval process."
+      ]
+    },
+    {
+      "tag": "Extended Personal Leave",
+      "patterns": [
+        "Can I take extended leave for personal reasons?",
+        "What’s the policy for taking personal leave for an extended period?",
+        "How do I apply for extended leave for personal matters?",
+        "Does the company allow extended leave for personal reasons?"
+      ],
+      "response": [
+        "The company allows extended leave for personal reasons, subject to prior approval from your supervisor and HR. Ensure adequate notice is given.",
+        "You may take extended leave for personal reasons, but approval from your manager and HR is required, and we recommend submitting your request in advance.",
+        "Extended personal leave may be granted with managerial and HR approval, based on availability and work requirements. Submit requests early.",
+        "Personal extended leave requests must be submitted in advance and approved by HR. Depending on the situation, unpaid leave may be required."
+      ]
+    },
+    {
+      "tag": "Family Leave",
+      "patterns": [
+        "How can I apply for family leave?",
+        "What’s the process for requesting family leave?",
+        "Can I request family leave, and how?",
+        "How do I apply for leave due to family reasons?"
+      ],
+      "response": [
+        "Family leave can be requested by informing HR and your supervisor. A formal application may be required depending on your situation.",
+        "Submit your family leave request to HR, along with any required documentation, and ensure you have approval before taking leave.",
+        "To request family leave, notify HR and submit the necessary paperwork for approval. Family leave policies vary by location and circumstances.",
+        "Family leave requests are to be made through HR, and documentation such as birth or medical certificates may be required for approval."
+      ]
+    },
+    {
+      "tag": "Unused Annual Leave",
+      "patterns": [
+        "What happens to unused annual leave?",
+        "Do I lose my unused leave at the end of the year?",
+        "How is unused annual leave handled?",
+        "What happens if I don’t use all of my annual leave?"
+      ],
+      "response": [
+        "If you don't use all your annual leave, it may be carried over to the next year or forfeited, depending on company policy.",
+        "Unused annual leave may be rolled over into the following year, subject to company guidelines. Check with HR for specifics.",
+        "Any unused annual leave can be carried over or may be forfeited at the end of the year, depending on company policy.",
+        "You may be able to carry over unused leave, but there are limits on the number of days that can be accumulated. Contact HR for details."
+      ]
+    },
+    {
+      "tag": "Leave During Public Holidays",
+      "patterns": [
+        "How is leave handled during public holidays?",
+        "Can I take time off on a public holiday?",
+        "Do public holidays affect my leave balance?",
+        "What happens if I take leave during a public holiday?"
+      ],
+      "response": [
+        "Public holidays are not deducted from your leave balance. If you’re on leave during a public holiday, it will not count against your time off.",
+        "If you are on leave during a public holiday, it does not count as leave, and your leave balance remains unchanged.",
+        "Public holidays are not deducted from your leave days. If you’re on leave during a public holiday, you’ll still receive full days off.",
+        "Leave taken during public holidays does not affect your leave balance. Public holidays are recognized separately."
+      ]
+    },
+    {
+      "tag": "Bank Account Update",
+      "patterns": [
+        "How can I update my bank account information for salary payments?",
+        "What is the process to change my bank details for salary deposits?",
+        "How do I modify my bank account details for payroll?",
+        "Can I change my bank account details for salary payments?",
+        "How do I update my payment information for salary deposits?"
+      ],
+      "response": [
+        "To change your bank account details, log into the HR portal and update your payment information under the 'Bank Details' section.",
+        "You can update your bank account information by submitting a request through the HR portal or contacting the payroll department directly.",
+        "To update your bank details for salary payments, go to the 'Payroll' section in the HR system and input your new account details.",
+        "Update your bank account details by logging into the HR portal and navigating to the 'Payment Details' section for a secure update."
+      ]
+    },
+    {
+      "tag": "Remote Work Policy",
+      "patterns": [
+        "Can I work from a different location or country, and what is the policy?",
+        "What is the company’s policy if I want to work remotely from another country?",
+        "How does the company handle requests to work from a different location or country?",
+        "What are the guidelines for working remotely from a different location or country?",
+        "Is there a policy for working from a different country or location?"
+      ],
+      "response": [
+        "Working from a different location or country may require prior approval from your manager and HR. Ensure compliance with tax and legal regulations.",
+        "The company has policies in place for remote work from different locations. Approval from HR is required, and you must comply with tax laws.",
+        "If you plan to work from a different location or country, please consult with HR for approval and ensure you're following company guidelines.",
+        "Working from another country is subject to HR approval and may involve compliance with local tax laws and company policies."
+      ]
+    },
+    {
+      "tag": "Promotion Eligibility",
+      "patterns": [
+        "How can I check if I’m eligible for a promotion?",
+        "What steps do I need to take to find out if I qualify for a promotion or career development program?",
+        "How can I know if I am eligible for career advancement or development programs?",
+        "What are the criteria for eligibility for a promotion or career development program?",
+        "How do I determine if I can apply for a promotion or career development opportunity?"
+      ],
+      "response": [
+        "Eligibility for promotions or career development programs is based on performance reviews and department needs. Speak with your manager for more details.",
+        "To find out if you are eligible for a promotion, review your recent performance evaluation and discuss opportunities with your supervisor.",
+        "Promotions and career development opportunities depend on your performance. Speak with your manager to learn about your eligibility.",
+        "Eligibility for career development programs and promotions can be discussed with your manager during your performance review or feedback sessions."
+      ]
+    },
+    {
+      "tag": "Laptop Issues",
+      "patterns": [
+        "What should I do if my work laptop or equipment isn't working properly?",
+        "How can I get help with my work laptop or equipment issues?",
+        "Who do I contact if I'm having issues with my work equipment?",
+        "How do I report problems with my work laptop or equipment?",
+        "If I have technical problems with my laptop or equipment, how do I resolve them?"
+      ],
+      "response": [
+        "If you're having issues with your work laptop or equipment, contact the IT helpdesk through the company's support portal or email.",
+        "To resolve equipment issues, submit a request to IT support or call the helpdesk for assistance with troubleshooting or repairs.",
+        "For any problems with your work laptop, contact the IT department via the company portal or helpdesk for assistance and repairs.",
+        "Issues with your equipment can be resolved by reaching out to IT support through the helpdesk or by submitting a support ticket online."
+      ]
+    },
+    {
+      "tag": ["Break Policy", "Work Hours", "Workday Breaks"],
+      "patterns": [
+        "Am I allowed to take breaks during work hours?",
+        "What is the break policy during work hours?",
+        "How long are my breaks during work hours?",
+        "Can I take breaks during my workday, and for how long?",
+        "What is the company policy on taking breaks during work?"
+      ],
+      "response": [
+        "Employees are entitled to take breaks during work hours, typically lasting 15 minutes. Longer breaks should be approved by your manager.",
+        "Breaks during work hours are allowed and typically last up to 30 minutes. For extended breaks, please discuss with your supervisor.",
+        "You may take short breaks throughout the day, with a standard break time of 15 minutes. Longer breaks can be scheduled with manager approval.",
+        "Short breaks of 15 minutes are allowed during the workday. Extended breaks should be planned with your manager's approval."
+      ]
+    },
+    {
+      "tag": ["Performance Targets", "Performance Review", "Goals Tracking"],
+      "patterns": [
+        "How can I track my performance targets?",
+        "How do I check if I’m meeting my performance goals?",
+        "What is the process for knowing if I’m meeting my performance targets?",
+        "How do I find out if I’m hitting my performance targets?",
+        "What should I do to ensure I am meeting my performance targets?"
+      ],
+      "response": [
+        "Your performance targets are reviewed during performance evaluations. Regular feedback from your manager will also give insight into your progress.",
+        "You can track your performance targets through your manager’s feedback and during quarterly or annual performance reviews.",
+        "Meeting your performance targets can be confirmed through regular check-ins with your manager and performance assessments.",
+        "Performance targets are assessed through manager reviews and self-assessments, with regular feedback on your progress toward meeting goals."
+      ]
+    },
+    {
+      "tag": ["Work Shift Change", "Work Schedule", "Shift Hours Modification"],
+      "patterns": [
+        "Is it possible to change my work shift or hours?",
+        "How do I request a change in my work shift or hours?",
+        "Can I modify my work schedule or hours?",
+        "What is the process for changing my work shift or hours?",
+        "Can my work shift or hours be altered?"
+      ],
+      "response": [
+        "Changes to your work shift or hours are subject to approval by your manager. Submit a request with the preferred changes for discussion.",
+        "You may request a change to your work hours, but it must be approved by your manager based on team needs and operational requirements.",
+        "To change your work shift or hours, discuss your preferences with your manager for potential approval based on business needs.",
+        "Work schedule changes need to be approved by your manager and may depend on the availability and team requirements."
+      ]
+    },
+    {
+      "tag": ["Performance Evaluation", "Review Feedback", "Lower Evaluation"],
+      "patterns": [
+        "Why did my performance evaluation come out lower than expected?",
+        "Can you explain why my performance evaluation was lower than I anticipated?",
+        "What factors led to a lower performance evaluation than expected?",
+        "Why didn't I meet the expectations for my performance evaluation?",
+        "Can I get more information on why my performance evaluation was lower?"
+      ],
+      "response": [
+        "Your performance evaluation reflects feedback on areas needing improvement. Discuss specific concerns with your manager for further clarification.",
+        "A lower-than-expected performance evaluation may indicate areas that require development. Review feedback with your manager for guidance.",
+        "The evaluation might be lower due to missed targets or unmet goals. It's a good idea to discuss your feedback with your manager to understand the areas for improvement.",
+        "A performance review lower than expected could be due to inconsistencies in meeting objectives. Have a discussion with your manager to address these areas."
+      ]
+    },
+    {
+      "tag": ["Pension Contributions", "Benefits Portal", "HR Assistance"],
+      "patterns": [
+        "Where can I view my pension contributions?",
+        "How can I check my pension savings?",
+        "How do I see the status of my pension contributions?",
+        "Where can I find my pension contribution details?",
+        "How can I track my pension contributions?"
+      ],
+      "response": [
+        "To check your pension contributions, log into the company's benefits portal or contact HR for a detailed report.",
+        "Pension contributions can be reviewed through the company’s benefits platform or by asking HR for the latest statements.",
+        "You can review your pension contributions by accessing your account on the benefits portal or reaching out to HR for detailed reports.",
+        "Pension contributions are available on the benefits portal. If you need further assistance, HR can provide a detailed breakdown."
+      ]
+    },
+    {
+        "tag": "requesting paid time off",
+        "patterns": [
+          "How can I request paid time off?",
+          "What’s the process for requesting paid leave?",
+          "How do I apply for paid time off?",
+          "Can you tell me how to request paid leave?"
+        ],
+        "response": [
+          "To request paid time off, submit a request through the company's leave management system or inform your manager for approval.",
+          "You can request paid time off by filling out the leave request form and submitting it through our HR portal for manager approval.",
+          "Submit your leave request via our internal system and get your time off approved by your supervisor in advance.",
+          "Requests for paid time off can be made through our online platform or by notifying your team leader in advance."
+        ]
+    },
+    {
+        "tag": "applying for sick leave",
+        "patterns": [
+          "How can I request sick leave?",
+          "What is the procedure for applying for sick leave?",
+          "Can you explain how to apply for sick leave?",
+          "How do I take sick leave?"
+        ],
+        "response": [
+          "To apply for sick leave, please notify your manager and submit a medical certificate if required. Then, enter your leave request in the HR system.",
+          "Sick leave requests should be submitted through the company portal, and a doctor's note may be needed for extended leave.",
+          "You can apply for sick leave by notifying your direct supervisor and submitting a request in the leave system, attaching any necessary medical documents.",
+          "Sick leave is to be requested via our HR software, and a doctor’s note is required for absences longer than 3 days."
+        ]
+    },
+    {
+        "tag": "sick leave days per year",
+        "patterns": [
+          "What is the annual sick leave entitlement?",
+          "How many sick leave days do I have per year?",
+          "What is the maximum number of sick leave days allowed annually?",
+          "How many days of sick leave are allotted every year?"
+        ],
+        "response": [
+          "Employees are entitled to 10 days of sick leave per year. Additional days may be granted based on individual circumstances.",
+          "The standard sick leave allowance is 12 days per year, with any unused days carrying over to the next year.",
+          "You are given 15 days of sick leave annually. Unused days will be carried over into the following year.",
+          "Each employee receives 10 days of sick leave annually, which can be extended with manager approval in case of longer illnesses."
+        ]
+    },
+    {
+        "tag": "penalty for unapproved leave",
+        "patterns": [
+          "Why was I penalized for unapproved leave?",
+          "What happened because I took unapproved leave?",
+          "Why did my unapproved leave lead to a penalty?",
+          "What is the penalty for unapproved leave?"
+        ],
+        "response": [
+          "Unapproved leave can lead to penalties as it impacts team productivity. Ensure that your leave is approved in advance.",
+          "If leave was taken without prior approval, it can affect the workflow and lead to penalties as per company policy.",
+          "Penalties for unapproved leave arise from the absence causing disruptions. Always request leave through the proper channels for approval.",
+          "Taking leave without prior approval can result in disciplinary action as it disrupts team schedules and project timelines."
+        ]
+    },
+    {
+        "tag": "carry over unused leave",
+        "patterns": [
+          "How can I carry over my unused leave days?",
+          "What’s the process for carrying over unused leave days?",
+          "Can unused leave days be carried over to next year?",
+          "How do I transfer unused leave days to the next year?"
+        ],
+        "response": [
+          "Unused leave days can be carried over to the following year, subject to approval. You can check with HR for specific carryover rules.",
+          "Depending on your role and department, unused leave days may carry over with a maximum cap. Speak with HR for details.",
+          "Your unused leave days are carried over automatically to the next year, unless otherwise specified by your department's leave policy.",
+          "If you have unused leave days, they can be transferred to the next year, but please check with HR for any applicable limits."
+        ]
+    },
+    {
+        "tag": "leave during peak periods",
+        "patterns": [
+          "Is leave allowed during peak periods?",
+          "Can I request time off during peak seasons?",
+          "Are there restrictions on taking leave during busy periods?",
+          "Can I take leave during peak times of the year?"
+        ],
+        "response": [
+          "Leave during peak periods may be restricted due to business needs. However, you can request time off in advance and coordinate with your manager.",
+          "Leave requests during peak periods are subject to approval based on workload and team requirements. Speak with your supervisor for approval.",
+          "While peak periods can affect leave approvals, we encourage advance planning. Please submit leave requests early to ensure availability.",
+          "Taking leave during busy periods may require special approval depending on the department’s operational needs. Plan accordingly."
+        ]
+    },
+    {
+        "tag": "check remaining leave balance",
+        "patterns": [
+          "How can I view my remaining leave balance?",
+          "Where can I find my current leave balance?",
+          "How do I check how much leave I have left?",
+          "Where do I check my leave balance?"
+        ],
+        "response": [
+          "You can view your remaining leave balance by logging into the company HR portal or asking HR directly for an update.",
+          "Check your remaining leave balance by accessing your profile in the employee portal or by contacting the HR department.",
+          "Your leave balance is available in the HR system. You can also inquire with HR for an updated balance if needed.",
+          "To view your current leave balance, log in to the HR portal or reach out to the HR team for confirmation."
+        ]
+    },
+    {
+        "tag":"unpaid leave after paid leave",
+        "patterns": [
+          "What happens if I run out of paid leave? Can I take unpaid leave?",
+          "Is unpaid leave allowed once paid leave is exhausted?",
+          "How do I request unpaid leave after using up paid leave?",
+          "Can I apply for unpaid leave after my paid leave is finished?"
+        ],
+        "response": [
+          "Yes, you can take unpaid leave once your paid leave days have been exhausted. Please notify your manager and HR for approval.",
+          "If you've used up your paid leave days, you can request unpaid leave. Ensure that you follow the proper process for approval.",
+          "Unpaid leave can be taken if all paid leave days have been used up. Submit a formal request for approval from HR and your manager.",
+          "You are allowed to take unpaid leave once your paid leave days are gone. Please consult with HR for the approval process."
+        ]
+    },
+    {
+        "tag": "personal leave request",
+        "patterns": [
+          "Can I take extended leave for personal reasons?",
+          "What’s the policy for taking personal leave for an extended period?",
+          "How do I apply for extended leave for personal matters?",
+          "Does the company allow extended leave for personal reasons?"
+        ],
+        "response": [
+          "The company allows extended leave for personal reasons, subject to prior approval from your supervisor and HR. Ensure adequate notice is given.",
+          "You may take extended leave for personal reasons, but approval from your manager and HR is required, and we recommend submitting your request in advance.",
+          "Extended personal leave may be granted with managerial and HR approval, based on availability and work requirements. Submit requests early.",
+          "Personal extended leave requests must be submitted in advance and approved by HR. Depending on the situation, unpaid leave may be required."
+        ]
+    },
+    {
+        "tag": ["requesting family leave", "family leave request", "how to apply for family leave", "family leave process"],
+        "patterns": [
+          "How can I apply for family leave?",
+          "What’s the process for requesting family leave?",
+          "Can I request family leave, and how?",
+          "How do I apply for leave due to family reasons?"
+        ],
+        "response": [
+          "Family leave can be requested by informing HR and your supervisor. A formal application may be required depending on your situation.",
+          "Submit your family leave request to HR, along with any required documentation, and ensure you have approval before taking leave.",
+          "To request family leave, notify HR and submit the necessary paperwork for approval. Family leave policies vary by location and circumstances.",
+          "Family leave requests are to be made through HR, and documentation such as birth or medical certificates may be required for approval."
+        ]
+    },
+    {
+        "tag": ["unused annual leave", "unused leave policy", "annual leave carry over", "unused leave at year end"],
+        "patterns": [
+          "What happens to unused annual leave?",
+          "Do I lose my unused leave at the end of the year?",
+          "How is unused annual leave handled?",
+          "What happens if I don’t use all of my annual leave?"
+        ],
+        "response": [
+          "If you don't use all your annual leave, it may be carried over to the next year or forfeited, depending on company policy.",
+          "Unused annual leave may be rolled over into the following year, subject to company guidelines. Check with HR for specifics.",
+          "Any unused annual leave can be carried over or may be forfeited at the end of the year, depending on company policy.",
+          "You may be able to carry over unused leave, but there are limits on the number of days that can be accumulated. Contact HR for details."
+        ]
+    },
+    {
+        "tag": ["leave during public holiday", "public holiday leave", "leave balance during public holidays", "leave policy for public holidays"],
+        "patterns": [
+          "How is leave handled during public holidays?",
+          "Can I take time off on a public holiday?",
+          "Do public holidays affect my leave balance?",
+          "What happens if I take leave during a public holiday?"
+        ],
+        "response": [
+          "Public holidays are not deducted from your leave balance. If you’re on leave during a public holiday, it will not count against your time off.",
+          "If you are on leave during a public holiday, it does not count as leave, and your leave balance remains unchanged.",
+          "Public holidays are not deducted from your leave days. If you’re on leave during a public holiday, you’ll still receive full days off.",
+          "Leave taken during public holidays does not affect your leave balance. Public holidays are recognized separately."
+        ]
+    },
+    {
+        "tag": "Company Policy on Remote Work",
+        "patterns": [
+          "Can you tell me the company’s policy on remote work?",
+          "What are the company guidelines for working remotely?",
+          "How does the company handle remote work arrangements?",
+          "What is the policy for employees working from home?",
+          "Does the company offer remote work options?"
+        ],
+        "response": [
+          "The company offers hybrid work options where employees can work remotely up to 3 days a week.",
+          "Remote work is allowed on a case-by-case basis, depending on your department and role requirements.",
+          "We offer full-time remote work for certain roles. Please discuss with your manager if this applies to you.",
+          "Remote work is encouraged during certain circumstances, such as personal reasons or during health crises.",
+          "The company policy allows employees to work remotely after completing a 6-month probation period."
+        ]
+    },
+    {
+        "tag": "Can I Request to Work From Home",
+        "patterns": [
+          "Is it possible for me to request working from home on certain days?",
+          "Can I arrange to work remotely on specific days?",
+          "How do I request to work from home on particular days?",
+          "Can I work from home on certain days as needed?",
+          "What is the process for requesting to work from home on select days?"
+        ],
+        "response": [
+          "Yes, you can request to work from home based on your manager's approval and team needs.",
+          "Yes, flexible work from home days can be arranged, but please coordinate with your manager beforehand.",
+          "It is possible to work from home a few days a week if your role allows for remote work.",
+          "We support flexible working arrangements. You can request remote work for specific days if needed.",
+          "Yes, you can submit a formal request for working from home, and it will be approved based on project requirements."
+        ]
+    },
+    {
+        "tag": "Health Insurance Options and Costs",
+        "patterns": [
+          "Can you explain the health insurance options available to me?",
+          "What types of health insurance plans can I choose from, and what are their costs?",
+          "How much will my health insurance cost, and what options do I have?",
+          "What health insurance plans are offered by the company, and how much do they cost?",
+          "What are the different health insurance plans, and what are their prices?"
+        ],
+        "response": [
+          "We offer a variety of health insurance plans, including HMO and PPO, with varying costs depending on your coverage level.",
+          "Health insurance plans are available for individuals and families. The cost is deducted from your monthly salary.",
+          "Our health insurance plans include dental and vision coverage. You can select the plan that fits your needs.",
+          "We provide multiple options for health insurance, including high-deductible plans and traditional plans.",
+          "The company pays a portion of your health insurance premium. The remainder is deducted from your salary."
+        ]
+    },
+    {
+        "tag": "Health Insurance for Dependents",
+        "patterns": [
+          "Can I add my family members to the health insurance plan?",
+          "Are dependents like my spouse and children included in the health insurance coverage?",
+          "Is it possible to add dependents to my health insurance plan?",
+          "Does the health insurance plan cover my family members?",
+          "Can I include my dependents in the health insurance plan, and what is the cost?"
+        ],
+        "response": [
+          "Yes, dependents can be added to your health insurance plan. Additional costs may apply.",
+          "You can include your spouse and children under the health insurance plan at an additional cost.",
+          "Health insurance for dependents is available. Please contact HR to add them to your plan.",
+          "Yes, we offer family plans that cover your dependents. The premium depends on the number of people covered.",
+          "You can add dependents to your health insurance plan, but there may be an increase in the premium."
+        ]
+    },
+    {
+        "tag": "Health and Safety Policy",
+        "patterns": [
+          "Can you explain the company's health and safety policy?",
+          "What are the health and safety regulations I need to follow at work?",
+          "How does the company ensure a safe and healthy work environment?",
+          "What does the company do to maintain health and safety in the workplace?"
+        ],
+        "response": [
+          "The company is committed to maintaining a safe and healthy work environment. Regular safety training sessions are provided.",
+          "We follow all health and safety regulations, and employees are encouraged to report any unsafe conditions immediately.",
+          "Health and safety are top priorities. All employees are required to attend regular safety drills and comply with company guidelines.",
+          "Our workplace is regularly inspected to ensure compliance with health and safety standards. Please follow all posted safety guidelines.",
+          "We provide personal protective equipment (PPE) where necessary, and encourage employees to use it to ensure safety."
+        ]
+    },
+    {
+        "tag": "What to Do in Case of Workplace Injury",
+        "patterns": [
+          "What steps should I take if I get injured while working?",
+          "How do I report an injury at work?",
+          "What is the procedure for workplace injuries?",
+          "In case of an accident at work, what actions should I follow?"
+        ],
+        "response": [
+          "If you get injured at work, immediately inform your manager and fill out an incident report for HR.",
+          "You should report any workplace injuries to your supervisor right away and seek medical attention if needed.",
+          "In case of injury, please contact the HR department and provide details about the incident. Medical leave may be granted.",
+          "Report the injury to HR and your supervisor immediately. We will assist with the claims process and ensure your recovery.",
+          "Please notify your manager and HR if you are injured. The company will cover medical costs if it's work-related."
+        ]
+    },
+    {
+        "tag": "Health and Safety Guidelines for remote Work",
+        "patterns": [
+          "What health and safety precautions should I take when working from home?",
+          "How does the company ensure health and safety when employees are working remotely?",
+          "Are there specific health and safety guidelines for home office setups?",
+          "What steps should I follow for maintaining health and safety while working remotely?"
+        ],
+        "response": [
+          "While working remotely, make sure your workspace is ergonomically designed to prevent injuries. Follow the guidelines provided by HR for home office setups.",
+          "The company encourages employees to create a safe and comfortable workspace. Ensure proper lighting, seating, and equipment for your well-being.",
+          "For remote work, we provide guidelines on maintaining a healthy work environment at home, including ergonomics and mental health support.",
+          "You should follow the same health and safety practices at home that you would in the office. The company has resources to support remote work safety.",
+          "Ensure you have an ergonomic chair, good posture, and a clear workspace at home. HR provides resources and guidance for setting up a safe home office."
+        ]
+    },
+    {
+        "tag": "Reporting_Unsafe_Working_Conditions",
+        "patterns": [
+          "What should I do if I notice unsafe working conditions?",
+          "How do I report a potential safety hazard at work?",
+          "If I see something unsafe at work, how can I report it?",
+          "Is there a procedure to report unsafe conditions in the workplace?"
+        ],
+        "response": [
+          "If you notice unsafe working conditions, please report them to your supervisor or HR immediately. We take all safety concerns seriously.",
+          "You can report unsafe working conditions by filling out a safety concern form or contacting your manager directly.",
+          "To report unsafe conditions, use the safety incident reporting system available on the company portal, or reach out to HR.",
+          "If you observe unsafe conditions, please notify your supervisor or HR, and they will take appropriate action to address the issue.",
+          "For any unsafe situations, please contact the safety officer or HR to ensure proper inspection and corrective measures."
+        ]
+    },
+    {
+        "tag": "PPE_Provided_by_Company",
+        "patterns": [
+          "What PPE do I need to wear at work, and does the company provide it?",
+          "Is PPE provided by the company, and which items are included?",
+          "Does the company supply personal protective equipment, and which PPE do I need?",
+          "Can you tell me what type of PPE is required and provided by the company?"
+        ],
+        "response": [
+          "The company provides necessary PPE, including gloves, helmets, eye protection, and other safety gear depending on your job role.",
+          "We provide PPE such as gloves, masks, and safety goggles, depending on the nature of your work. You will be issued appropriate gear.",
+          "Personal protective equipment (PPE) is provided based on your department and job requirements. This includes safety glasses, ear protection, and gloves.",
+          "If your role requires PPE, the company will provide you with all necessary protective equipment to ensure your safety.",
+          "Depending on your work environment, you will receive the required PPE such as safety shoes, gloves, and other gear to ensure your safety."
+        ]
+    },
+    {
+        "tag": "Frequency of Health",
+        "patterns": [
+          "How frequently does the company conduct health and safety training?",
+          "When do the health and safety training sessions take place?",
+          "How often am I required to attend health and safety training?",
+          "Are health and safety training sessions mandatory, and how often are they conducted?"
+        ],
+        "response": [
+          "Health and safety training sessions are held annually for all employees. Additional sessions may be scheduled depending on job-specific requirements.",
+          "We conduct regular health and safety training every year. You will be notified of upcoming sessions by HR or your supervisor.",
+          "All employees are required to attend health and safety training at least once a year. Additional refresher courses may be provided as needed.",
+          "Health and safety training is mandatory and is usually conducted on an annual basis, but more frequent sessions may occur depending on your role.",
+          "Employees are required to attend health and safety training annually. The HR department will schedule these sessions and send reminders."
+        ]
+    },
+    {
+        "tag": "Reporting Unsafe Workplace Concerns",
+        "patterns": [
+          "If I feel unsafe at work, who should I contact?",
+          "What steps can I take if I feel my safety is compromised at work?",
+          "How do I report feeling unsafe at work?",
+          "What actions should I take if I am concerned about my safety in the workplace?"
+        ],
+        "response": [
+          "If you feel unsafe at work, immediately report your concerns to your manager or HR. We will assess the situation and ensure your safety.",
+          "Speak to your supervisor or HR if you feel unsafe. The company will take immediate steps to address any concerns regarding your safety.",
+          "If you feel unsafe, please notify HR or your direct manager. Your well-being is our priority, and we will work to resolve any safety issues promptly.",
+          "Report any safety concerns to HR or your manager. We take all safety concerns seriously and will take necessary actions to ensure your protection.",
+          "If you have any concerns about safety, please contact HR or your supervisor. We will investigate and take the necessary steps to ensure a safe working environment."
+        ]
     }
   ]
 }
